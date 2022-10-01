@@ -1,0 +1,40 @@
+body{
+    background-color: rgba(153, 147, 147, 0.493);
+}
+.contenedor{
+    margin: 0 auto;
+    width: 30vw;
+    border: 3px solid rgba(158, 156, 156, 0.719);
+    max-width: 960px;
+    background-color: white;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    border-radius: 15px;
+    height: 80vh;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+.center img{
+    width: 28vw;
+}
+img{
+    border-radius: 15px;
+}
+.contenedor-2{
+    
+    text-align: center;
+    
+}
+.contenedor-2 article h1{
+    margin: 0 auto;
+    margin-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.contenedor-2 article p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
