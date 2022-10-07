@@ -24,18 +24,14 @@ body{
     width: 100%;
     border-radius: 12px;
 }
-.cuerpo{
-    
+.cuerpo{   
     width: 80%;
     margin: 0 auto;
     text-align: center;
 }
-
-
 .cuerpo div h1 {
-    
+   
 }
-
 .cuerpo div p{
     
 }
@@ -65,7 +61,6 @@ body{
     color: rgb(69, 49, 184);
 
 }
-
 
 .boton{
     margin-top: 15px;
