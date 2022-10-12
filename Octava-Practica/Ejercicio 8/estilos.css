@@ -1,0 +1,88 @@
+body{
+
+    background-image: url('img/bg-pattern-bottom-desktop.svg');
+}
+.contenedor{  
+    width: 90%;
+    height: 479px;
+    margin: 5rem auto;
+    max-width: 960px;
+    min-width: 400px;
+}
+.cabezal{
+    width: 99%;
+    height: 225px;
+    margin: 0 auto;
+    display: flex;
+}
+.caja{
+    width: 50%;
+    height: 220px;
+}
+.cabezal .caja h1{   
+    color: hsl(300, 43%, 22%);
+    font-family: 'League Spartan', sans-serif;
+    font-size: 48px;
+}
+.cabezal .caja p{
+    color: hsl(303, 10%, 53%);
+    font-family: 'League Spartan', sans-serif;
+    font-size: 20px;
+}
+.cajitas{
+    width: 80%;
+    color: hsl(300, 43%, 22%);  
+    height: 50px;
+    display: flex;
+    background-color: hsl(300, 24%, 96%);
+    margin: 15px auto;
+    border-radius: 5px;
+    font-size: 10px;
+}
+.cajitas img{
+    height: 15px;
+    width: 15px;
+    margin-top: 15px;
+    padding: 2px;
+}
+.cajitas h2{
+    padding-top: 5px;
+    padding-left: 10px;
+}
+.cuerpo{
+    margin: 1rem auto;  
+    width: 99%;
+    height: 226px;
+    display: flex;
+}
+.cajas{
+    background-color:  hsl(300, 43%, 22%);
+    margin: 10px;  
+    border-radius: 10px;
+    width: 100%;
+}
+.cajas header{
+    display: flex;
+}
+.cajas header section{
+    margin: 2px 2px;
+    padding-left: 10px;
+}
+.cajas header section img{
+    border-radius: 3rem;
+    width: 40px;
+    margin-top: 30px;
+}
+.cajas header section h1, p{
+    padding-left: 15px;
+}
+.cajas header section h1{
+    color: white;
+}
+.cajas header section p{
+    color: hsl(333, 80%, 67%);
+}
+.cajas div p{
+    color: white;
+    font-size: 13px;
+}
