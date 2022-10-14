@@ -1,0 +1,106 @@
+body{
+    background-color: hsl(204, 43%, 93%);
+}
+.contenedor{
+    background-color: white;
+    border-radius: 10px;
+    width: 70%;
+    height: 405px;
+    margin: 8rem auto;
+    box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.361);
+}
+.cabezal{
+    
+    width: 100%;
+    height: 150px;
+}
+header h1{
+    color: hsl(179, 62%, 43%);
+    margin: 2rem 2rem;
+}
+header h2{
+    color: hsl(71, 73%, 54%);
+    margin: 0 2rem;
+    margin-top: -20px;
+}
+header p{
+    
+    color: hsl(216, 4%, 77%);
+    width: 80%;
+    margin: 2rem 2rem;
+}
+.cuerpo{
+    
+    width: 100%;
+    height: 245px;
+    display: flex;
+}
+.caja{
+
+    background-color: hsl(179, 62%, 43%);
+    
+    height: 239px;
+    width: 50%;
+    margin: 1rem auto;
+   
+}
+
+.caja h1{
+    color: hsl(204, 43%, 93%);
+    margin: 2rem 2rem;
+}
+.caja p{
+    color: hsl(204, 43%, 93%);
+    margin: 2rem 2rem;
+}
+
+.month{
+    display: flex;
+    margin: -50px 2rem;
+    color: hsl(204, 43%, 93%);
+}
+.month h2{
+    color: white;
+    font-size: 35px;
+}
+.month p{
+    color: hsl(217, 15%, 79%);
+    margin: 1rem;
+    padding-top: 25px;
+    font-size: 15px;
+    
+}
+.BOTON{
+    margin: 0 15%;
+}
+
+.botonperzonalizado{
+    color: white;
+    border: none;
+    background-color: hsl(71, 73%, 54%);
+    padding: 15px;
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 2px 2px 15px rgba(29, 29, 29, 0.854);
+    font-size: 17px;
+    cursor: pointer;
+}   
+
+
+.cajita{
+    background-color: hsl(179, 56%, 60%);
+    
+    height: 239px;
+    width: 50%;
+    margin: 1rem auto;
+}
+
+.cajita h1{
+    color: hsl(204, 43%, 93%);
+    margin: 2rem 2rem;
+}
+
+.cajita p{
+    color: hsl(210, 9%, 91%);
+    margin: -15px 2rem;
+}
